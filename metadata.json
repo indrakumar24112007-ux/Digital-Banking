@@ -1,0 +1,6 @@
+{
+  "name": "ApexBank - UML Bank Management System",
+  "description": "Production-grade Bank Management System built strictly adhering to OOAD UML diagrams: Secure Transactions, Customer KYC & Management, Accounts, Loans, Payments, and Architecture Traceability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
